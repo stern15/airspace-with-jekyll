@@ -13,17 +13,21 @@ layout: default
                 <h1>{{ page.title }}</h1>
                 <!-- Author-->
                 <p class="lead">
-                    by <a href="#">Jana Bergant</a>
+                    by {{ page.author }}
                 </p>
                 <hr>
                 <!--Date/Time-->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on January 08,2016</p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%c"}}</p>
                 <hr>
                 <!-- Preview Image -->
-                <img class="img-responsive" src="http://placehold.it/900*300" alt="Time is an illusion. Lunchtime doubly so.">
+                {% if page.image %}
+                <img class="img-responsive" src="{{ page.image }}" alt="{{ page.title }}">
                 <hr>
+                {% endif %}
                 <!-- Post Content -->
-                <p class="lead">If there is a lesson to be learned, it is the futility of seeking fulfillment in outer space. we need to judge ourselfs by who we are, not by where we go.</p>
+                {% if page.lead %}
+                <p class="lead">{{ page.lead }}</p>
+                {% endif %}
                 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all directions eventually meet,in which all men occupy as equals. The airman's earth, if free men make it, will be truly aound: a globe in practice, not in theory.</p>
                 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come form science.</p>
                 <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that set eye on the earth.</p>
