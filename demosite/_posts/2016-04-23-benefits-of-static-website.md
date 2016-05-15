@@ -1,15 +1,13 @@
 ---
 layout: post
-title: benefits of static website generator
+title: benefits of static website
 date: 2016-04-23 12:33
 author: semasuka stern
 image: http://placehold.it/900×300
 lead: "If there is a lesson to be learned, it is the futility of seeking fulfillment in outer space. we need to judge ourselfs by who we are, not by where we go."
 category: jekyll
+sutitle: create an ultra fast, secure blog that is easy to maintain and scale
 ---
-
-{% include subpage-header.html %}
-
 
 
 **Flexibility**
