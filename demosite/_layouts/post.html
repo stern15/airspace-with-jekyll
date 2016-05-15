@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
+
+{% include subpage-header.html %}
+<br>
+
 <!-- POST HTML -->
 <article id="post">
     <div class="container">
         <div class="row">
-
             <!-- Blog Post Content column -->
             <div class="col-lg-8">
                 <!-- Blog Post -->
@@ -28,6 +31,8 @@ layout: default
                 {% if page.lead %}
                 <p class="lead">{{ page.lead }}</p>
                 {% endif %}
+
+
                  {{ page.content }}
 
                 <hr>
