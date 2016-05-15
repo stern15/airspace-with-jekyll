@@ -1,10 +1,8 @@
 ---
-layout: post
+
 title: "markdown"
 date: 2016-05-12 1:33
-author: semasuka stern
 lead: "a simple explanation of what is a markdown language"
-category: jekyll
 subtitle: simple definition of markdown
 ---
 

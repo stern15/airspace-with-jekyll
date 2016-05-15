@@ -1,10 +1,8 @@
 ---
-layout: post
+
 title: "advance jekyll"
 date: 2016-05-12 1:33
-author: semasuka stern
 lead: "liquid was invented by shopify and later became an open source project"
-category: jekyll
 subtitle: advance liquid templating
 ---
 
