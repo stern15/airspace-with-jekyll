@@ -3,10 +3,10 @@
   <channel>
     <title>Great web agency</title>
     <description>Great web agency offers high impact yet affordable web development services. From web design to targeted SEO to custom web applications. </description>
-    <link>http://127.0.0.1:4000//</link>
-    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 May 2016 10:59:49 +0300</pubDate>
-    <lastBuildDate>Mon, 16 May 2016 10:59:49 +0300</lastBuildDate>
+    <link>http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/</link>
+    <atom:link href="http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 May 2016 22:07:10 +0300</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 22:07:10 +0300</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;Markdown is widely accepted by developers and editors, so it’s the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2016 01:33:00 +0300</pubDate>
-        <link>http://127.0.0.1:4000//jekyll/what-is-markdown.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//jekyll/what-is-markdown.html</guid>
+        <link>http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/what-is-markdown.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/what-is-markdown.html</guid>
         
         
         <category>jekyll</category>
@@ -41,8 +41,8 @@
 &lt;p&gt;Your final step is where the hacking really begins. Now and again you imagine something you just can’t do with these tools. Your only recourse is to ask on Stackoverflow for someone to do it for you learn a bit of Ruby. Anything you can write in Ruby you can add to Jekyll as a “plugin”, by defining a Liquid extension for a Ruby function. Ruby is clearly a favorite language of web-developers thanks to its dynamic-site implementation Ruby-on-Rails and a vibrant Github community, so there’s a wealth of useful tools, including an implementation to most APIs you might care to interact with (Github, Twitter, various Google APIs, are among the ones I’m using).&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2016 01:33:00 +0300</pubDate>
-        <link>http://127.0.0.1:4000//jekyll/advance-jekyll.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//jekyll/advance-jekyll.html</guid>
+        <link>http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/advance-jekyll.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/advance-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -101,8 +101,8 @@ provide simpler workflows such as editing Dropbox files in StackEdit.&lt;/p&gt;
 &lt;p&gt;Database data is volatile. A CMS permits users to add, delete or change content on a whim. Wiping the whole site is a few clicks away. You can back up databases but, even if that’s done regularly, you’re still likely to lose some data.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Apr 2016 12:33:00 +0300</pubDate>
-        <link>http://127.0.0.1:4000//jekyll/benefits-of-static-website.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//jekyll/benefits-of-static-website.html</guid>
+        <link>http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/benefits-of-static-website.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/airspace-with-jekyll/airspace-with-jekyll/jekyll/benefits-of-static-website.html</guid>
         
         
         <category>jekyll</category>

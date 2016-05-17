@@ -10,17 +10,17 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="index.html">
-                <img src="img/logo.png" alt="Logo">
+                <img src="{{site.baseurl}}/img/logo.png" alt="Logo">
             </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li {% if page.url == "/" %}class="active"{% endif %}><a href="index.html">Home</a></li>
-                <li {% if page.url == "/portfolio.html" %}class="active"{% endif %}><a href="portfolio.html">Portfolio</a></li>
+                <li {% if page.url == "{{site.baseurl}}/" %}class="active"{% endif %}><a href="index.html">Home</a></li>
+                <li {% if page.url == "{{site.baseurl}}/portfolio.html" %}class="active"{% endif %}><a href="portfolio.html">Portfolio</a></li>
                 <li><a href="#">Support</a></li>
-                <li {% if page.url == "/post.html" %}class="active"{% endif %}><a href="post.html">Blog</a></li>
-                <li {% if page.url == "/contact.html" %}class="active"{% endif %}><a href="contact.html">Contact</a></li>
+                <li {% if page.url == "{{site.baseurl}}/post.html" %}class="active"{% endif %}><a href="post.html">Blog</a></li>
+                <li {% if page.url == "{{site.baseurl}}/contact.html" %}class="active"{% endif %}><a href="contact.html">Contact</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
